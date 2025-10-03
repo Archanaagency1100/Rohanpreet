@@ -1,0 +1,10 @@
+{
+  "name": "rohanpreet-singh-website",
+  "version": "1.0.0",
+  "description": "Official website for Rohanpreet Singh",
+  "scripts": {
+    "dev": "npx http-server . -p 3000",
+    "build": "echo 'Build complete - HTML/CSS/JS project'",
+    "preview": "npx http-server . -p 4173"
+  }
+}
